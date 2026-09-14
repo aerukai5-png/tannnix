@@ -12,9 +12,9 @@
           "download_url": "https://github.com/aerukai5-png/tannnix/raw/refs/heads/main/libZeusv8.so"
         },
         { 
-          "name": "ASTRAL",
-          "lib_name": "libAstral.so",
-          "download_url": "https://github.com/aerukai5-png/tannnix/raw/refs/heads/main/libAstral.so"
+          "name": "ECHO",
+          "lib_name": "libECHO.so",
+          "download_url": "https://github.com/aerukai5-png/tannnix/raw/refs/heads/main/libECHO.so"
           },
         {
           "name": "VVIP MOD",
@@ -22,9 +22,9 @@
           "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib2.so"         
           },
         {
-          "name": "ASHTEVS PREMIUM MOD",
-          "lib_name": "lib3.so",
-          "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so"         
+          "name": "HOSKE",
+          "lib_name": "libHOSKE.so",
+          "download_url": "https://github.com/aerukai5-png/tannnix/raw/refs/heads/main/libHOSKE.so"         
           },
         {
           "name": "NEROX FILES",
