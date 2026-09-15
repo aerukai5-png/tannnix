@@ -57,9 +57,9 @@
           "download_url": "https://github.com/aerukai5-png/tannnix/raw/refs/heads/main/libAstral.so"     
           },
         {
-          "name": "NEROX MOD",
-          "lib_name": "lib4.so",
-          "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib4.so"             
+          "name": "TANIX",
+          "lib_name": "libCtrlAltDel.so",
+          "download_url": "https://github.com/aerukai5-png/tannnix/raw/refs/heads/main/libCtrlAltDel.so"             
         }
       ]
     }
